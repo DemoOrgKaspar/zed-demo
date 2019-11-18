@@ -29,7 +29,7 @@ Run the following commands in the root of the repository:
 $ docker-compose build
 $ docker-compose up
 ```
-## Running Locally
+## Running Locally 
 
 When running locally, you need to have a Postgres server up and running with a database created and with a Postgres ROLE that has `LOGIN` rights.
 
